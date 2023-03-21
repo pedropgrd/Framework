@@ -1,0 +1,35 @@
+@font-face {
+    font-family: aba;
+    src: url();
+}
+
+footer {
+background-color:#017601 ;
+}
+
+.linksfooter {
+    text-decoration: none;
+    color: white !important;
+    font-size: 17px;
+    font-weight: bolder;
+    font-family: 'Merriweather', serif;
+    padding-bottom: 27px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.icone {
+    width: 25px;
+    height: 25px;
+}
+
+iframe {
+  width: 100%;
+  height: 25vh;
+}
+
+.card {
+  padding: 1.5vh;
+}
